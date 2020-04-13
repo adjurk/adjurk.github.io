@@ -1,0 +1,66 @@
+---
+layout: post
+title: Thoughts to follow
+description: Smart people usually have something smart to say.
+summary: Some quotes that I've found over the years.
+comments: true
+tags: [quotes]
+---
+
+Here are some of the quotes I've gathered and do my best to follow.
+
+<br />
+
+---
+
+<br />
+
+> To paraphrase my favorite quote by Twitter and Medium founder Ev Williams: “Failure of your [work] is not failure in life. Failure in your relationships is.”
+
+&nbsp;
+
+> Learning to program isn’t about how talented you are or how early you started coding. It’s about perseverance.
+
+*From: [How to land a top-notch tech internship — and a tech job — while you’re still in school](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/) by Michael Deng, freecodecamp.org*
+
+<br />
+
+---
+
+<br />
+
+[Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://www.youtube.com/watch?v=RGuJga2Gl_k&t=492s)
+
+> (...) So, what I should have done with my search system, back when I was a kid? Well, I could have used the code that was already out there, realize that other people have already done the work for me, and that's true. But, ultimately, I should have done is what the client asked for. Typed the descriptions into a Word processor and saved it as a document. Because that was a better solution! They could have just searched it by pressing <kbd>Ctrl+F</kbd>. Text doesn't break down or need updating when an operating system gets upgraded. If they have new photos to add, anyone who knew how to type could update it. They could still open that document today!. 
+
+> **The big problem wasn't that I used a bad algorithm. The big problem was that I was ignoring what my users actually needed because I wanted to show off how clever I was. It's important to think how fast things will work, sure, but the best solution isn't always the fastest or the smartest - it's the one that works for everyone, long-term.**
+
+*~Tom Scott, 2020*
+
+<br />
+
+---
+
+<br />
+
+[The Consequences of Your Code](https://www.youtube.com/watch?v=LZM9YdO_QKk)
+
+> It's not like there's a crystal ball, that'll tell you "Yes, your brand new dating app you're developing, that'll cause 1000 couples to marry and live happily ever after. But it will also get 3 people murdured". The real world is not a trolley problem.
+
+> The STI result system that I call presumably reduced the workload on staff and allowed people to check the results out of hours when it was convenient and discrete for them. You would hope that something like that wouldn't have a downside but then the designers screwed it up because they thought it was good enough… and it wasn't. One extra check, one extra voice mail that said "I'm sorry, I couldn't find your result, just a moment." would have solved that. 
+
+> **Every time that we design a system we have to minimize the potential of harm. Look at the code you write, look at the systems you design and think how could this be abused, how could this fall apart. What are the failure states here. If you were a bad actor, if you wanted to use this maliciously, how would you go about it. Think about how you'd attack your own systems, explore those failure states, deliberately screw things up and see how your code copes because if you don't, someone else will.**
+
+*~Tom Scott, 2018*
+
+<br />
+
+---
+
+<br />
+
+[The Moonpig Bug: How 3,000,000 Customers' Details Were Exposed](https://www.youtube.com/watch?v=CgJudU_jlZ8)
+
+> And developers, if you're making anything that stores private information - code like you're being attacked, because you will be. Never trust user input, assume that anyone sending anything to your site is malicious until proven otherwise, and prepare for the worst. Don't think "Nobody will ever notice this". **Think "How could I break this?", because I guarantee you that someone out there will be thinking that too.**
+
+*~Tom Scott, 2015*

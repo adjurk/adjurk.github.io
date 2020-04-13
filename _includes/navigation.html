@@ -1,0 +1,11 @@
+<header role="banner">
+      <!--<h1 class="logo">{{ site.title }}</h1>-->
+      <nav role="navigation">
+<ul>
+   {% for item in site.data.navigation.links %}
+      <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+<span style="color: gray; font-size: 12px;"><i>Adam Jurkiewicz {{ "now" | date: "%Y"}}</i></span>
+</nav>
+</header>
